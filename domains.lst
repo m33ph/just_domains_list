@@ -1,4 +1,4 @@
-nftset=/themoviedb.org/4#inet#fw4#vpn_domains
+nftset=/quora.com/4#inet#fw4#vpn_domains
 nftset=/avid.com/4#inet#fw4#vpn_domains
 nftset=/xivapi.com/4#inet#fw4#vpn_domains
 nftset=/ffxivteamcraft.com/4#inet#fw4#vpn_domains
